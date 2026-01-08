@@ -83,7 +83,7 @@ typed-ast==1.4.1
 urllib3==1.25.9
 wcwidth==0.1.9
 webencodings==0.5.1
-Werkzeug==1.0.1
+Werkzeug==3.1.5
 wincertstore==0.2
 wrapt==1.12.1
 zipp==3.1.0
